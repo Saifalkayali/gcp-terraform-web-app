@@ -1,5 +1,5 @@
 # gcp-terraform-web-app
-# GCP Terraform Web App
+# GCP Terraform Web App for Copilot testing
 
 This repository contains a simple web application and Terraform configuration to deploy it to Google Cloud Platform (GCP).
 
